@@ -1,0 +1,1 @@
+DB_TER <- read.csv("C:/Users/jfgs/OneDrive - Keolis/MSI/regularite-mensuelle-ter.csv",sep=";", dec =".")
